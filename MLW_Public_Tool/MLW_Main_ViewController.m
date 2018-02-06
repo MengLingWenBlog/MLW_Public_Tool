@@ -17,6 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view from its nib.
+    self.title = @"主页";
+    //修改一下下
 }
 
 - (void)didReceiveMemoryWarning {
