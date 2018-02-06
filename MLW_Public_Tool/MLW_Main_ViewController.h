@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MLW_Main_ViewController.h
 //  MLW_Public_Tool
 //
 //  Created by jack on 2018/2/6.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MLW_Main_ViewController : UIViewController
 
 @end
-
